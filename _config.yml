@@ -12,14 +12,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   
   <h2>Personal Information</h2>
-  <ul>
-    <li><strong>Name:</strong> Sazzad Hussain Farhaan</li>
-    <li><strong>Address:</strong> Dhanmondi 7A, Dhaka, Bangladesh</li>
-    <li><strong>Email:</strong> shfarhaan21@gmail.com <i class="fas fa-envelope"></i></li>
-    <li><strong>Phone:</strong> +880 1685 170 845 <i class="fas fa-phone"></i></li>
-    <li><strong>LinkedIn:</strong> <a href="www.linkedin.com/in/shfarhaan/" target="_blank">shfarhaan <i class="fab fa-linkedin"></i></a></li>
-    <li><strong>GitHub:</strong> <a href="github.com/shfarhaan" target="_blank">shfarhaan <i class="fab fa-github"></i></a></li>
-  </ul>
+  <p><i class="fas fa-user"></i> <strong>Name:</strong> Sazzad Hussain Farhaan</p>
+  <p><i class="fas fa-map-marker-alt"></i> <strong>Address:</strong> Dhanmondi 7A, Dhaka, Bangladesh</p>
+  <p><i class="fas fa-envelope"></i> <strong>Email:</strong> shfarhaan21@gmail.com</p>
+  <p><i class="fas fa-phone"></i> <strong>Phone:</strong> +880 1685 170 845</p>
+  <p><i class="fab fa-linkedin"></i> <strong>LinkedIn:</strong> <a href="www.linkedin.com/in/shfarhaan/" target="_blank">shfarhaan</a></p>
+  <p><i class="fab fa-github"></i> <strong>GitHub:</strong> <a href="github.com/shfarhaan" target="_blank">shfarhaan</a></p>
+
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
