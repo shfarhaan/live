@@ -1,8 +1,16 @@
-title: John Doe # your name (or website title) here
+title: Sazzad Hussain Farhaan # your name (or website title) here
 logo: "/images/shfarhaan_img.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sazzad Hussain Farhaan - CV</title>
 
+  <!-- Font Awesome icons (you may need to include the Font Awesome library) -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  </head>
+  
+  
   <h2>Personal Information</h2>
   <ul>
     <li><strong>Name:</strong> Sazzad Hussain Farhaan</li>
@@ -12,14 +20,17 @@ description: > # your text below (remove <br> elements if you don't need line br
     <li><strong>LinkedIn:</strong> <a href="www.linkedin.com/in/shfarhaan/" target="_blank">shfarhaan <i class="fab fa-linkedin"></i></a></li>
     <li><strong>GitHub:</strong> <a href="github.com/shfarhaan" target="_blank">shfarhaan <i class="fab fa-github"></i></a></li>
   </ul>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/shfarhaan/">View My LinkedIn Profile</a> 
-  
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+
+  # Second description 
+  # <br><br>
+  # <a href="https://www.linkedin.com/in/shfarhaan/">View My LinkedIn Profile</a> 
+  
   # - *address:* Dhanmondi 7A, Dhaka, Bangladesh
   # - *email:* shfarhaan21@gmail.com
   # - *phone:* +880 1685 170 845
