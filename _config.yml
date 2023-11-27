@@ -1,4 +1,4 @@
-title: Sazzad Hussain Farhaan # your name (or website title) here
+# title: Sazzad Hussain Farhaan # your name (or website title) here
 logo: "/images/shfarhaan_img.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <head>
@@ -12,8 +12,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   
   <h2>Personal Information</h2>
-  <p><i class="fas fa-user"></i> <strong>Name:</strong> Sazzad Hussain Farhaan</p>
-  <p><i class="fas fa-map-marker-alt"></i> <strong>Address:</strong> Dhanmondi 7A, Dhaka, Bangladesh</p>
+ 
   <p><i class="fas fa-envelope"></i> <strong>Email:</strong> shfarhaan21@gmail.com</p>
   <p><i class="fas fa-phone"></i> <strong>Phone:</strong> +880 1685 170 845</p>
   <p><i class="fab fa-linkedin"></i> <strong>LinkedIn:</strong> <a href="www.linkedin.com/in/shfarhaan/" target="_blank">shfarhaan</a></p>
@@ -25,6 +24,9 @@ plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
+
+#  <p><i class="fas fa-user"></i> <strong>Name:</strong> Sazzad Hussain Farhaan</p>
+#   <p><i class="fas fa-map-marker-alt"></i> <strong>Address:</strong> Dhanmondi 7A, Dhaka, Bangladesh</p>
 
   # Second description 
   # <br><br>
